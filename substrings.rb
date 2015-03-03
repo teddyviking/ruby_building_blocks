@@ -1,3 +1,5 @@
+#!/usr/bin/ruby 
+
 def substrings(phrase,array)
 	
 	substrings = {}
